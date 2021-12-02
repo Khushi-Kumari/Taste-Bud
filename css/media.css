@@ -1,0 +1,53 @@
+
+/*
+ @media only screen and (max-width:500px)
+*/
+
+
+
+/*
+header ul{
+    flex-direction:column;
+}
+*/
+
+
+.box{
+    
+    flex-direction: column;
+  
+}
+
+.media {
+   
+    width: 84%  !important ;
+    
+   
+}
+.box div{
+    height:auto !important  ;
+}
+section::before{
+    height:464px !important;
+}
+section{
+    height:390px !important ;
+    padding-top:3px !important;
+}
+section p{
+   
+    margin-top:0px  !important ;
+    margin-bottom:1.6px !important;
+    text-align: justified !important;
+}
+
+form input {
+    width: 183px !important;
+    /* font-size: 76px; */
+    font-size: 18px !important;
+    padding:3px !important;
+}
+
+.p{
+    font-size:16.6px !important;
+}
